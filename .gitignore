@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.csproj.user
+.vs
+bin
+obj
+DataPersistence/S3/S3CLMSchemaDataClient/Data/Agreements.json
+DataPersistence/S3/S3CLMSchemaDataClient/Data/RelatedAgreements.json
